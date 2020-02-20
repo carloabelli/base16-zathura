@@ -1,0 +1,28 @@
+# Material Lighter by Nate Peterson
+
+set completion-bg \#FAFAFA
+set completion-fg \#CCD7DA
+set completion-group-bg \#E7EAEC
+set completion-group-fg \#8796B0
+set completion-highlight-bg \#CCEAE7
+set completion-highlight-fg \#80CBC4
+set default-bg \#FAFAFA
+set default-fg \#80CBC4
+set index-active-bg \#CCEAE7
+set index-active-fg \#80CBC4
+set index-bg \#FAFAFA
+set index-fg \#CCD7DA
+set inputbar-bg \#FAFAFA
+set inputbar-fg \#80CBC4
+set notification-bg \#FAFAFA
+set notification-error-bg \#FAFAFA
+set notification-error-fg \#FF5370
+set notification-fg \#80CBC4
+set notification-warning-bg \#FAFAFA
+set notification-warning-fg \#FFB62C
+set recolor-darkcolor \#80CBC4
+set recolor-lightcolor \#FAFAFA
+set render-loading-bg \#FAFAFA
+set render-loading-fg \#CCD7DA
+set statusbar-bg \#E7EAEC
+set statusbar-fg \#8796B0

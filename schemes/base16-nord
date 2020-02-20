@@ -1,0 +1,28 @@
+# Nord by arcticicestudio
+
+set completion-bg \#2E3440
+set completion-fg \#4C566A
+set completion-group-bg \#3B4252
+set completion-group-fg \#D8DEE9
+set completion-highlight-bg \#434C5E
+set completion-highlight-fg \#E5E9F0
+set default-bg \#2E3440
+set default-fg \#E5E9F0
+set index-active-bg \#434C5E
+set index-active-fg \#E5E9F0
+set index-bg \#2E3440
+set index-fg \#4C566A
+set inputbar-bg \#2E3440
+set inputbar-fg \#E5E9F0
+set notification-bg \#2E3440
+set notification-error-bg \#2E3440
+set notification-error-fg \#88C0D0
+set notification-fg \#E5E9F0
+set notification-warning-bg \#2E3440
+set notification-warning-fg \#5E81AC
+set recolor-darkcolor \#E5E9F0
+set recolor-lightcolor \#2E3440
+set render-loading-bg \#2E3440
+set render-loading-fg \#4C566A
+set statusbar-bg \#3B4252
+set statusbar-fg \#D8DEE9

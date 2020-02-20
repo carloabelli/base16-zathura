@@ -1,0 +1,28 @@
+# Snazzy by Chawye Hsu (https://github.com/h404bi) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+
+set completion-bg \#282a36
+set completion-fg \#78787e
+set completion-group-bg \#34353e
+set completion-group-fg \#a5a5a9
+set completion-highlight-bg \#43454f
+set completion-highlight-fg \#e2e4e5
+set default-bg \#282a36
+set default-fg \#e2e4e5
+set index-active-bg \#43454f
+set index-active-fg \#e2e4e5
+set index-bg \#282a36
+set index-fg \#78787e
+set inputbar-bg \#282a36
+set inputbar-fg \#e2e4e5
+set notification-bg \#282a36
+set notification-error-bg \#282a36
+set notification-error-fg \#ff5c57
+set notification-fg \#e2e4e5
+set notification-warning-bg \#282a36
+set notification-warning-fg \#f3f99d
+set recolor-darkcolor \#e2e4e5
+set recolor-lightcolor \#282a36
+set render-loading-bg \#282a36
+set render-loading-fg \#78787e
+set statusbar-bg \#34353e
+set statusbar-fg \#a5a5a9

@@ -1,0 +1,28 @@
+# Atelier Forest Light by Bram de Haan (http://atelierbramdehaan.nl)
+
+set completion-bg \#f1efee
+set completion-fg \#9c9491
+set completion-group-bg \#e6e2e0
+set completion-group-fg \#766e6b
+set completion-highlight-bg \#a8a19f
+set completion-highlight-fg \#68615e
+set default-bg \#f1efee
+set default-fg \#68615e
+set index-active-bg \#a8a19f
+set index-active-fg \#68615e
+set index-bg \#f1efee
+set index-fg \#9c9491
+set inputbar-bg \#f1efee
+set inputbar-fg \#68615e
+set notification-bg \#f1efee
+set notification-error-bg \#f1efee
+set notification-error-fg \#f22c40
+set notification-fg \#68615e
+set notification-warning-bg \#f1efee
+set notification-warning-fg \#c38418
+set recolor-darkcolor \#68615e
+set recolor-lightcolor \#f1efee
+set render-loading-bg \#f1efee
+set render-loading-fg \#9c9491
+set statusbar-bg \#e6e2e0
+set statusbar-fg \#766e6b

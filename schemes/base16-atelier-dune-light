@@ -1,0 +1,28 @@
+# Atelier Dune Light by Bram de Haan (http://atelierbramdehaan.nl)
+
+set completion-bg \#fefbec
+set completion-fg \#999580
+set completion-group-bg \#e8e4cf
+set completion-group-fg \#7d7a68
+set completion-highlight-bg \#a6a28c
+set completion-highlight-fg \#6e6b5e
+set default-bg \#fefbec
+set default-fg \#6e6b5e
+set index-active-bg \#a6a28c
+set index-active-fg \#6e6b5e
+set index-bg \#fefbec
+set index-fg \#999580
+set inputbar-bg \#fefbec
+set inputbar-fg \#6e6b5e
+set notification-bg \#fefbec
+set notification-error-bg \#fefbec
+set notification-error-fg \#d73737
+set notification-fg \#6e6b5e
+set notification-warning-bg \#fefbec
+set notification-warning-fg \#ae9513
+set recolor-darkcolor \#6e6b5e
+set recolor-lightcolor \#fefbec
+set render-loading-bg \#fefbec
+set render-loading-fg \#999580
+set statusbar-bg \#e8e4cf
+set statusbar-fg \#7d7a68

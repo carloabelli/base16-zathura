@@ -1,0 +1,28 @@
+# Dracula by Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+
+set completion-bg \#282936
+set completion-fg \#626483
+set completion-group-bg \#3a3c4e
+set completion-group-fg \#62d6e8
+set completion-highlight-bg \#4d4f68
+set completion-highlight-fg \#e9e9f4
+set default-bg \#282936
+set default-fg \#e9e9f4
+set index-active-bg \#4d4f68
+set index-active-fg \#e9e9f4
+set index-bg \#282936
+set index-fg \#626483
+set inputbar-bg \#282936
+set inputbar-fg \#e9e9f4
+set notification-bg \#282936
+set notification-error-bg \#282936
+set notification-error-fg \#ea51b2
+set notification-fg \#e9e9f4
+set notification-warning-bg \#282936
+set notification-warning-fg \#00f769
+set recolor-darkcolor \#e9e9f4
+set recolor-lightcolor \#282936
+set render-loading-bg \#282936
+set render-loading-fg \#626483
+set statusbar-bg \#3a3c4e
+set statusbar-fg \#62d6e8

@@ -1,0 +1,28 @@
+# PaperColor Light by Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+
+set completion-bg \#eeeeee
+set completion-fg \#5f8700
+set completion-group-bg \#af0000
+set completion-group-fg \#0087af
+set completion-highlight-bg \#008700
+set completion-highlight-fg \#878787
+set default-bg \#eeeeee
+set default-fg \#878787
+set index-active-bg \#008700
+set index-active-fg \#878787
+set index-bg \#eeeeee
+set index-fg \#5f8700
+set inputbar-bg \#eeeeee
+set inputbar-fg \#878787
+set notification-bg \#eeeeee
+set notification-error-bg \#eeeeee
+set notification-error-fg \#bcbcbc
+set notification-fg \#878787
+set notification-warning-bg \#eeeeee
+set notification-warning-fg \#d70087
+set recolor-darkcolor \#878787
+set recolor-lightcolor \#eeeeee
+set render-loading-bg \#eeeeee
+set render-loading-fg \#5f8700
+set statusbar-bg \#af0000
+set statusbar-fg \#0087af

@@ -1,0 +1,28 @@
+# Heetch Light by Geoffrey Teale (tealeg@gmail.com)
+
+set completion-bg \#feffff
+set completion-fg \#9c92a8
+set completion-group-bg \#392551
+set completion-group-fg \#ddd6e5
+set completion-highlight-bg \#7b6d8b
+set completion-highlight-fg \#5a496e
+set default-bg \#feffff
+set default-fg \#5a496e
+set index-active-bg \#7b6d8b
+set index-active-fg \#5a496e
+set index-bg \#feffff
+set index-fg \#9c92a8
+set inputbar-bg \#feffff
+set inputbar-fg \#5a496e
+set notification-bg \#feffff
+set notification-error-bg \#feffff
+set notification-error-fg \#27d9d5
+set notification-fg \#5a496e
+set notification-warning-bg \#feffff
+set notification-warning-fg \#5ba2b6
+set recolor-darkcolor \#5a496e
+set recolor-lightcolor \#feffff
+set render-loading-bg \#feffff
+set render-loading-fg \#9c92a8
+set statusbar-bg \#392551
+set statusbar-fg \#ddd6e5

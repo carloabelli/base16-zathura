@@ -1,0 +1,28 @@
+# Mellow Purple by gidsi
+
+set completion-bg \#1e0528
+set completion-fg \#320f55
+set completion-group-bg \#1A092D
+set completion-group-fg \#873582
+set completion-highlight-bg \#331354
+set completion-highlight-fg \#ffeeff
+set default-bg \#1e0528
+set default-fg \#ffeeff
+set index-active-bg \#331354
+set index-active-fg \#ffeeff
+set index-bg \#1e0528
+set index-fg \#320f55
+set inputbar-bg \#1e0528
+set inputbar-fg \#ffeeff
+set notification-bg \#1e0528
+set notification-error-bg \#1e0528
+set notification-error-fg \#00d9e9
+set notification-fg \#ffeeff
+set notification-warning-bg \#1e0528
+set notification-warning-fg \#955ae7
+set recolor-darkcolor \#ffeeff
+set recolor-lightcolor \#1e0528
+set render-loading-bg \#1e0528
+set render-loading-fg \#320f55
+set statusbar-bg \#1A092D
+set statusbar-fg \#873582

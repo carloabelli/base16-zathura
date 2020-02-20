@@ -1,0 +1,28 @@
+# Material Vivid by joshyrobot
+
+set completion-bg \#202124
+set completion-fg \#44464d
+set completion-group-bg \#27292c
+set completion-group-fg \#676c71
+set completion-highlight-bg \#323639
+set completion-highlight-fg \#80868b
+set default-bg \#202124
+set default-fg \#80868b
+set index-active-bg \#323639
+set index-active-fg \#80868b
+set index-bg \#202124
+set index-fg \#44464d
+set inputbar-bg \#202124
+set inputbar-fg \#80868b
+set notification-bg \#202124
+set notification-error-bg \#202124
+set notification-error-fg \#f44336
+set notification-fg \#80868b
+set notification-warning-bg \#202124
+set notification-warning-fg \#ffeb3b
+set recolor-darkcolor \#80868b
+set recolor-lightcolor \#202124
+set render-loading-bg \#202124
+set render-loading-fg \#44464d
+set statusbar-bg \#27292c
+set statusbar-fg \#676c71

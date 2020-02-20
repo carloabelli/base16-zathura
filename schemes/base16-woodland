@@ -1,0 +1,28 @@
+# Woodland by Jay Cornwall (https://jcornwall.com)
+
+set completion-bg \#231e18
+set completion-fg \#9d8b70
+set completion-group-bg \#302b25
+set completion-group-fg \#b4a490
+set completion-highlight-bg \#48413a
+set completion-highlight-fg \#cabcb1
+set default-bg \#231e18
+set default-fg \#cabcb1
+set index-active-bg \#48413a
+set index-active-fg \#cabcb1
+set index-bg \#231e18
+set index-fg \#9d8b70
+set inputbar-bg \#231e18
+set inputbar-fg \#cabcb1
+set notification-bg \#231e18
+set notification-error-bg \#231e18
+set notification-error-fg \#d35c5c
+set notification-fg \#cabcb1
+set notification-warning-bg \#231e18
+set notification-warning-fg \#e0ac16
+set recolor-darkcolor \#cabcb1
+set recolor-lightcolor \#231e18
+set render-loading-bg \#231e18
+set render-loading-fg \#9d8b70
+set statusbar-bg \#302b25
+set statusbar-fg \#b4a490

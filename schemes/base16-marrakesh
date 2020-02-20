@@ -1,0 +1,28 @@
+# Marrakesh by Alexandre Gavioli (http://github.com/Alexx2/)
+
+set completion-bg \#201602
+set completion-fg \#6c6823
+set completion-group-bg \#302e00
+set completion-group-fg \#86813b
+set completion-highlight-bg \#5f5b17
+set completion-highlight-fg \#948e48
+set default-bg \#201602
+set default-fg \#948e48
+set index-active-bg \#5f5b17
+set index-active-fg \#948e48
+set index-bg \#201602
+set index-fg \#6c6823
+set inputbar-bg \#201602
+set inputbar-fg \#948e48
+set notification-bg \#201602
+set notification-error-bg \#201602
+set notification-error-fg \#c35359
+set notification-fg \#948e48
+set notification-warning-bg \#201602
+set notification-warning-fg \#a88339
+set recolor-darkcolor \#948e48
+set recolor-lightcolor \#201602
+set render-loading-bg \#201602
+set render-loading-fg \#6c6823
+set statusbar-bg \#302e00
+set statusbar-fg \#86813b

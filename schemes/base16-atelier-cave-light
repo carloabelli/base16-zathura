@@ -1,0 +1,28 @@
+# Atelier Cave Light by Bram de Haan (http://atelierbramdehaan.nl)
+
+set completion-bg \#efecf4
+set completion-fg \#7e7887
+set completion-group-bg \#e2dfe7
+set completion-group-fg \#655f6d
+set completion-highlight-bg \#8b8792
+set completion-highlight-fg \#585260
+set default-bg \#efecf4
+set default-fg \#585260
+set index-active-bg \#8b8792
+set index-active-fg \#585260
+set index-bg \#efecf4
+set index-fg \#7e7887
+set inputbar-bg \#efecf4
+set inputbar-fg \#585260
+set notification-bg \#efecf4
+set notification-error-bg \#efecf4
+set notification-error-fg \#be4678
+set notification-fg \#585260
+set notification-warning-bg \#efecf4
+set notification-warning-fg \#a06e3b
+set recolor-darkcolor \#585260
+set recolor-lightcolor \#efecf4
+set render-loading-bg \#efecf4
+set render-loading-fg \#7e7887
+set statusbar-bg \#e2dfe7
+set statusbar-fg \#655f6d

@@ -1,0 +1,28 @@
+# Framer by Framer (Maintained by Jesse Hoyos)
+
+set completion-bg \#181818
+set completion-fg \#747474
+set completion-group-bg \#151515
+set completion-group-fg \#B9B9B9
+set completion-highlight-bg \#464646
+set completion-highlight-fg \#D0D0D0
+set default-bg \#181818
+set default-fg \#D0D0D0
+set index-active-bg \#464646
+set index-active-fg \#D0D0D0
+set index-bg \#181818
+set index-fg \#747474
+set inputbar-bg \#181818
+set inputbar-fg \#D0D0D0
+set notification-bg \#181818
+set notification-error-bg \#181818
+set notification-error-fg \#FD886B
+set notification-fg \#D0D0D0
+set notification-warning-bg \#181818
+set notification-warning-fg \#FECB6E
+set recolor-darkcolor \#D0D0D0
+set recolor-lightcolor \#181818
+set render-loading-bg \#181818
+set render-loading-fg \#747474
+set statusbar-bg \#151515
+set statusbar-fg \#B9B9B9

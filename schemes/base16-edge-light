@@ -1,0 +1,28 @@
+# Edge Light by cjayross (https://github.com/cjayross)
+
+set completion-bg \#fafafa
+set completion-fg \#5e646f
+set completion-group-bg \#7c9f4b
+set completion-group-fg \#6587bf
+set completion-highlight-bg \#d69822
+set completion-highlight-fg \#5e646f
+set default-bg \#fafafa
+set default-fg \#5e646f
+set index-active-bg \#d69822
+set index-active-fg \#5e646f
+set index-bg \#fafafa
+set index-fg \#5e646f
+set inputbar-bg \#fafafa
+set inputbar-fg \#5e646f
+set notification-bg \#fafafa
+set notification-error-bg \#fafafa
+set notification-error-fg \#db7070
+set notification-fg \#5e646f
+set notification-warning-bg \#fafafa
+set notification-warning-fg \#d69822
+set recolor-darkcolor \#5e646f
+set recolor-lightcolor \#fafafa
+set render-loading-bg \#fafafa
+set render-loading-fg \#5e646f
+set statusbar-bg \#7c9f4b
+set statusbar-fg \#6587bf

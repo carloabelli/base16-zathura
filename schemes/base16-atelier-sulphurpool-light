@@ -1,0 +1,28 @@
+# Atelier Sulphurpool Light by Bram de Haan (http://atelierbramdehaan.nl)
+
+set completion-bg \#f5f7ff
+set completion-fg \#898ea4
+set completion-group-bg \#dfe2f1
+set completion-group-fg \#6b7394
+set completion-highlight-bg \#979db4
+set completion-highlight-fg \#5e6687
+set default-bg \#f5f7ff
+set default-fg \#5e6687
+set index-active-bg \#979db4
+set index-active-fg \#5e6687
+set index-bg \#f5f7ff
+set index-fg \#898ea4
+set inputbar-bg \#f5f7ff
+set inputbar-fg \#5e6687
+set notification-bg \#f5f7ff
+set notification-error-bg \#f5f7ff
+set notification-error-fg \#c94922
+set notification-fg \#5e6687
+set notification-warning-bg \#f5f7ff
+set notification-warning-fg \#c08b30
+set recolor-darkcolor \#5e6687
+set recolor-lightcolor \#f5f7ff
+set render-loading-bg \#f5f7ff
+set render-loading-fg \#898ea4
+set statusbar-bg \#dfe2f1
+set statusbar-fg \#6b7394

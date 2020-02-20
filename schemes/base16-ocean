@@ -1,0 +1,28 @@
+# Ocean by Chris Kempson (http://chriskempson.com)
+
+set completion-bg \#2b303b
+set completion-fg \#65737e
+set completion-group-bg \#343d46
+set completion-group-fg \#a7adba
+set completion-highlight-bg \#4f5b66
+set completion-highlight-fg \#c0c5ce
+set default-bg \#2b303b
+set default-fg \#c0c5ce
+set index-active-bg \#4f5b66
+set index-active-fg \#c0c5ce
+set index-bg \#2b303b
+set index-fg \#65737e
+set inputbar-bg \#2b303b
+set inputbar-fg \#c0c5ce
+set notification-bg \#2b303b
+set notification-error-bg \#2b303b
+set notification-error-fg \#bf616a
+set notification-fg \#c0c5ce
+set notification-warning-bg \#2b303b
+set notification-warning-fg \#ebcb8b
+set recolor-darkcolor \#c0c5ce
+set recolor-lightcolor \#2b303b
+set render-loading-bg \#2b303b
+set render-loading-fg \#65737e
+set statusbar-bg \#343d46
+set statusbar-fg \#a7adba

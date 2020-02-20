@@ -1,0 +1,28 @@
+# PhD by Hennig Hasemann (http://leetless.de/vim.html)
+
+set completion-bg \#061229
+set completion-fg \#717885
+set completion-group-bg \#2a3448
+set completion-group-fg \#9a99a3
+set completion-highlight-bg \#4d5666
+set completion-highlight-fg \#b8bbc2
+set default-bg \#061229
+set default-fg \#b8bbc2
+set index-active-bg \#4d5666
+set index-active-fg \#b8bbc2
+set index-bg \#061229
+set index-fg \#717885
+set inputbar-bg \#061229
+set inputbar-fg \#b8bbc2
+set notification-bg \#061229
+set notification-error-bg \#061229
+set notification-error-fg \#d07346
+set notification-fg \#b8bbc2
+set notification-warning-bg \#061229
+set notification-warning-fg \#fbd461
+set recolor-darkcolor \#b8bbc2
+set recolor-lightcolor \#061229
+set render-loading-bg \#061229
+set render-loading-fg \#717885
+set statusbar-bg \#2a3448
+set statusbar-fg \#9a99a3

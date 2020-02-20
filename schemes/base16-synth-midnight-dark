@@ -1,0 +1,28 @@
+# Synth Midnight Dark by Michaël Ball (http://github.com/michael-ball/)
+
+set completion-bg \#040404
+set completion-fg \#61507A
+set completion-group-bg \#141414
+set completion-group-fg \#BFBBBF
+set completion-highlight-bg \#242424
+set completion-highlight-fg \#DFDBDF
+set default-bg \#040404
+set default-fg \#DFDBDF
+set index-active-bg \#242424
+set index-active-fg \#DFDBDF
+set index-bg \#040404
+set index-fg \#61507A
+set inputbar-bg \#040404
+set inputbar-fg \#DFDBDF
+set notification-bg \#040404
+set notification-error-bg \#040404
+set notification-error-fg \#B53B50
+set notification-fg \#DFDBDF
+set notification-warning-bg \#040404
+set notification-warning-fg \#DAE84D
+set recolor-darkcolor \#DFDBDF
+set recolor-lightcolor \#040404
+set render-loading-bg \#040404
+set render-loading-fg \#61507A
+set statusbar-bg \#141414
+set statusbar-fg \#BFBBBF

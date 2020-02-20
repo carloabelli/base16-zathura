@@ -1,0 +1,28 @@
+# Seti UI by 
+
+set completion-bg \#151718
+set completion-fg \#41535B
+set completion-group-bg \#282a2b
+set completion-group-fg \#43a5d5
+set completion-highlight-bg \#3B758C
+set completion-highlight-fg \#d6d6d6
+set default-bg \#151718
+set default-fg \#d6d6d6
+set index-active-bg \#3B758C
+set index-active-fg \#d6d6d6
+set index-bg \#151718
+set index-fg \#41535B
+set inputbar-bg \#151718
+set inputbar-fg \#d6d6d6
+set notification-bg \#151718
+set notification-error-bg \#151718
+set notification-error-fg \#Cd3f45
+set notification-fg \#d6d6d6
+set notification-warning-bg \#151718
+set notification-warning-fg \#e6cd69
+set recolor-darkcolor \#d6d6d6
+set recolor-lightcolor \#151718
+set render-loading-bg \#151718
+set render-loading-fg \#41535B
+set statusbar-bg \#282a2b
+set statusbar-fg \#43a5d5

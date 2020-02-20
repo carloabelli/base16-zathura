@@ -1,0 +1,28 @@
+# Flat by Chris Kempson (http://chriskempson.com)
+
+set completion-bg \#2C3E50
+set completion-fg \#95A5A6
+set completion-group-bg \#34495E
+set completion-group-fg \#BDC3C7
+set completion-highlight-bg \#7F8C8D
+set completion-highlight-fg \#e0e0e0
+set default-bg \#2C3E50
+set default-fg \#e0e0e0
+set index-active-bg \#7F8C8D
+set index-active-fg \#e0e0e0
+set index-bg \#2C3E50
+set index-fg \#95A5A6
+set inputbar-bg \#2C3E50
+set inputbar-fg \#e0e0e0
+set notification-bg \#2C3E50
+set notification-error-bg \#2C3E50
+set notification-error-fg \#E74C3C
+set notification-fg \#e0e0e0
+set notification-warning-bg \#2C3E50
+set notification-warning-fg \#F1C40F
+set recolor-darkcolor \#e0e0e0
+set recolor-lightcolor \#2C3E50
+set render-loading-bg \#2C3E50
+set render-loading-fg \#95A5A6
+set statusbar-bg \#34495E
+set statusbar-fg \#BDC3C7

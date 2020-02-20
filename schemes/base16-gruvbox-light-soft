@@ -1,0 +1,28 @@
+# Gruvbox light, soft by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+
+set completion-bg \#f2e5bc
+set completion-fg \#bdae93
+set completion-group-bg \#ebdbb2
+set completion-group-fg \#665c54
+set completion-highlight-bg \#d5c4a1
+set completion-highlight-fg \#504945
+set default-bg \#f2e5bc
+set default-fg \#504945
+set index-active-bg \#d5c4a1
+set index-active-fg \#504945
+set index-bg \#f2e5bc
+set index-fg \#bdae93
+set inputbar-bg \#f2e5bc
+set inputbar-fg \#504945
+set notification-bg \#f2e5bc
+set notification-error-bg \#f2e5bc
+set notification-error-fg \#9d0006
+set notification-fg \#504945
+set notification-warning-bg \#f2e5bc
+set notification-warning-fg \#b57614
+set recolor-darkcolor \#504945
+set recolor-lightcolor \#f2e5bc
+set render-loading-bg \#f2e5bc
+set render-loading-fg \#bdae93
+set statusbar-bg \#ebdbb2
+set statusbar-fg \#665c54

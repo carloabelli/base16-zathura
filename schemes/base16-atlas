@@ -1,0 +1,28 @@
+# Atlas by Alex Lende (https://ajlende.com)
+
+set completion-bg \#002635
+set completion-fg \#6C8B91
+set completion-group-bg \#00384d
+set completion-group-fg \#869696
+set completion-highlight-bg \#517F8D
+set completion-highlight-fg \#a1a19a
+set default-bg \#002635
+set default-fg \#a1a19a
+set index-active-bg \#517F8D
+set index-active-fg \#a1a19a
+set index-bg \#002635
+set index-fg \#6C8B91
+set inputbar-bg \#002635
+set inputbar-fg \#a1a19a
+set notification-bg \#002635
+set notification-error-bg \#002635
+set notification-error-fg \#ff5a67
+set notification-fg \#a1a19a
+set notification-warning-bg \#002635
+set notification-warning-fg \#ffcc1b
+set recolor-darkcolor \#a1a19a
+set recolor-lightcolor \#002635
+set render-loading-bg \#002635
+set render-loading-fg \#6C8B91
+set statusbar-bg \#00384d
+set statusbar-fg \#869696

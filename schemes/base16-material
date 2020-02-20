@@ -1,0 +1,28 @@
+# Material by Nate Peterson
+
+set completion-bg \#263238
+set completion-fg \#546E7A
+set completion-group-bg \#2E3C43
+set completion-group-fg \#B2CCD6
+set completion-highlight-bg \#314549
+set completion-highlight-fg \#EEFFFF
+set default-bg \#263238
+set default-fg \#EEFFFF
+set index-active-bg \#314549
+set index-active-fg \#EEFFFF
+set index-bg \#263238
+set index-fg \#546E7A
+set inputbar-bg \#263238
+set inputbar-fg \#EEFFFF
+set notification-bg \#263238
+set notification-error-bg \#263238
+set notification-error-fg \#F07178
+set notification-fg \#EEFFFF
+set notification-warning-bg \#263238
+set notification-warning-fg \#FFCB6B
+set recolor-darkcolor \#EEFFFF
+set recolor-lightcolor \#263238
+set render-loading-bg \#263238
+set render-loading-fg \#546E7A
+set statusbar-bg \#2E3C43
+set statusbar-fg \#B2CCD6

@@ -1,0 +1,28 @@
+# Green Screen by Chris Kempson (http://chriskempson.com)
+
+set completion-bg \#001100
+set completion-fg \#007700
+set completion-group-bg \#003300
+set completion-group-fg \#009900
+set completion-highlight-bg \#005500
+set completion-highlight-fg \#00bb00
+set default-bg \#001100
+set default-fg \#00bb00
+set index-active-bg \#005500
+set index-active-fg \#00bb00
+set index-bg \#001100
+set index-fg \#007700
+set inputbar-bg \#001100
+set inputbar-fg \#00bb00
+set notification-bg \#001100
+set notification-error-bg \#001100
+set notification-error-fg \#007700
+set notification-fg \#00bb00
+set notification-warning-bg \#001100
+set notification-warning-fg \#007700
+set recolor-darkcolor \#00bb00
+set recolor-lightcolor \#001100
+set render-loading-bg \#001100
+set render-loading-fg \#007700
+set statusbar-bg \#003300
+set statusbar-fg \#009900

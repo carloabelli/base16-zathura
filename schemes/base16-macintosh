@@ -1,0 +1,28 @@
+# Macintosh by Rebecca Bettencourt (http://www.kreativekorp.com)
+
+set completion-bg \#000000
+set completion-fg \#808080
+set completion-group-bg \#404040
+set completion-group-fg \#808080
+set completion-highlight-bg \#404040
+set completion-highlight-fg \#c0c0c0
+set default-bg \#000000
+set default-fg \#c0c0c0
+set index-active-bg \#404040
+set index-active-fg \#c0c0c0
+set index-bg \#000000
+set index-fg \#808080
+set inputbar-bg \#000000
+set inputbar-fg \#c0c0c0
+set notification-bg \#000000
+set notification-error-bg \#000000
+set notification-error-fg \#dd0907
+set notification-fg \#c0c0c0
+set notification-warning-bg \#000000
+set notification-warning-fg \#fbf305
+set recolor-darkcolor \#c0c0c0
+set recolor-lightcolor \#000000
+set render-loading-bg \#000000
+set render-loading-fg \#808080
+set statusbar-bg \#404040
+set statusbar-fg \#808080

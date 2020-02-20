@@ -1,0 +1,28 @@
+# Horizon Light by Michaël Ball (http://github.com/michael-ball/)
+
+set completion-bg \#FDF0ED
+set completion-fg \#BDB3B1
+set completion-group-bg \#FADAD1
+set completion-group-fg \#948C8A
+set completion-highlight-bg \#F9CBBE
+set completion-highlight-fg \#403C3D
+set default-bg \#FDF0ED
+set default-fg \#403C3D
+set index-active-bg \#F9CBBE
+set index-active-fg \#403C3D
+set index-bg \#FDF0ED
+set index-fg \#BDB3B1
+set inputbar-bg \#FDF0ED
+set inputbar-fg \#403C3D
+set notification-bg \#FDF0ED
+set notification-error-bg \#FDF0ED
+set notification-error-fg \#E95678
+set notification-fg \#403C3D
+set notification-warning-bg \#FDF0ED
+set notification-warning-fg \#FADAD1
+set recolor-darkcolor \#403C3D
+set recolor-lightcolor \#FDF0ED
+set render-loading-bg \#FDF0ED
+set render-loading-fg \#BDB3B1
+set statusbar-bg \#FADAD1
+set statusbar-fg \#948C8A

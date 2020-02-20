@@ -1,0 +1,28 @@
+# Apathy by Jannik Siebert (https://github.com/janniks)
+
+set completion-bg \#031A16
+set completion-fg \#2B685E
+set completion-group-bg \#0B342D
+set completion-group-fg \#5F9C92
+set completion-highlight-bg \#184E45
+set completion-highlight-fg \#81B5AC
+set default-bg \#031A16
+set default-fg \#81B5AC
+set index-active-bg \#184E45
+set index-active-fg \#81B5AC
+set index-bg \#031A16
+set index-fg \#2B685E
+set inputbar-bg \#031A16
+set inputbar-fg \#81B5AC
+set notification-bg \#031A16
+set notification-error-bg \#031A16
+set notification-error-fg \#3E9688
+set notification-fg \#81B5AC
+set notification-warning-bg \#031A16
+set notification-warning-fg \#3E4C96
+set recolor-darkcolor \#81B5AC
+set recolor-lightcolor \#031A16
+set render-loading-bg \#031A16
+set render-loading-fg \#2B685E
+set statusbar-bg \#0B342D
+set statusbar-fg \#5F9C92

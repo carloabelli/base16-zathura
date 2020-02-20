@@ -1,0 +1,28 @@
+# Github by Defman21
+
+set completion-bg \#ffffff
+set completion-fg \#969896
+set completion-group-bg \#f5f5f5
+set completion-group-fg \#e8e8e8
+set completion-highlight-bg \#c8c8fa
+set completion-highlight-fg \#333333
+set default-bg \#ffffff
+set default-fg \#333333
+set index-active-bg \#c8c8fa
+set index-active-fg \#333333
+set index-bg \#ffffff
+set index-fg \#969896
+set inputbar-bg \#ffffff
+set inputbar-fg \#333333
+set notification-bg \#ffffff
+set notification-error-bg \#ffffff
+set notification-error-fg \#ed6a43
+set notification-fg \#333333
+set notification-warning-bg \#ffffff
+set notification-warning-fg \#795da3
+set recolor-darkcolor \#333333
+set recolor-lightcolor \#ffffff
+set render-loading-bg \#ffffff
+set render-loading-fg \#969896
+set statusbar-bg \#f5f5f5
+set statusbar-fg \#e8e8e8

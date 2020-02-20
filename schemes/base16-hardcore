@@ -1,0 +1,28 @@
+# Hardcore by Chris Caller
+
+set completion-bg \#212121
+set completion-fg \#4A4A4A
+set completion-group-bg \#303030
+set completion-group-fg \#707070
+set completion-highlight-bg \#353535
+set completion-highlight-fg \#cdcdcd
+set default-bg \#212121
+set default-fg \#cdcdcd
+set index-active-bg \#353535
+set index-active-fg \#cdcdcd
+set index-bg \#212121
+set index-fg \#4A4A4A
+set inputbar-bg \#212121
+set inputbar-fg \#cdcdcd
+set notification-bg \#212121
+set notification-error-bg \#212121
+set notification-error-fg \#f92672
+set notification-fg \#cdcdcd
+set notification-warning-bg \#212121
+set notification-warning-fg \#e6db74
+set recolor-darkcolor \#cdcdcd
+set recolor-lightcolor \#212121
+set render-loading-bg \#212121
+set render-loading-fg \#4A4A4A
+set statusbar-bg \#303030
+set statusbar-fg \#707070

@@ -1,0 +1,28 @@
+# Nova by George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+
+set completion-bg \#3C4C55
+set completion-fg \#899BA6
+set completion-group-bg \#556873
+set completion-group-fg \#899BA6
+set completion-highlight-bg \#6A7D89
+set completion-highlight-fg \#C5D4DD
+set default-bg \#3C4C55
+set default-fg \#C5D4DD
+set index-active-bg \#6A7D89
+set index-active-fg \#C5D4DD
+set index-bg \#3C4C55
+set index-fg \#899BA6
+set inputbar-bg \#3C4C55
+set inputbar-fg \#C5D4DD
+set notification-bg \#3C4C55
+set notification-error-bg \#3C4C55
+set notification-error-fg \#83AFE5
+set notification-fg \#C5D4DD
+set notification-warning-bg \#3C4C55
+set notification-warning-fg \#A8CE93
+set recolor-darkcolor \#C5D4DD
+set recolor-lightcolor \#3C4C55
+set render-loading-bg \#3C4C55
+set render-loading-fg \#899BA6
+set statusbar-bg \#556873
+set statusbar-fg \#899BA6

@@ -1,0 +1,28 @@
+# Materia by Defman21
+
+set completion-bg \#263238
+set completion-fg \#707880
+set completion-group-bg \#2C393F
+set completion-group-fg \#C9CCD3
+set completion-highlight-bg \#37474F
+set completion-highlight-fg \#CDD3DE
+set default-bg \#263238
+set default-fg \#CDD3DE
+set index-active-bg \#37474F
+set index-active-fg \#CDD3DE
+set index-bg \#263238
+set index-fg \#707880
+set inputbar-bg \#263238
+set inputbar-fg \#CDD3DE
+set notification-bg \#263238
+set notification-error-bg \#263238
+set notification-error-fg \#EC5F67
+set notification-fg \#CDD3DE
+set notification-warning-bg \#263238
+set notification-warning-fg \#FFCC00
+set recolor-darkcolor \#CDD3DE
+set recolor-lightcolor \#263238
+set render-loading-bg \#263238
+set render-loading-fg \#707880
+set statusbar-bg \#2C393F
+set statusbar-fg \#C9CCD3

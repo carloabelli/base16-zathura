@@ -1,0 +1,28 @@
+# Brush Trees Dark by Abraham White &lt;abelincoln.white@gmail.com&gt;
+
+set completion-bg \#485867
+set completion-fg \#8299A1
+set completion-group-bg \#5A6D7A
+set completion-group-fg \#98AFB5
+set completion-highlight-bg \#6D828E
+set completion-highlight-fg \#B0C5C8
+set default-bg \#485867
+set default-fg \#B0C5C8
+set index-active-bg \#6D828E
+set index-active-fg \#B0C5C8
+set index-bg \#485867
+set index-fg \#8299A1
+set inputbar-bg \#485867
+set inputbar-fg \#B0C5C8
+set notification-bg \#485867
+set notification-error-bg \#485867
+set notification-error-fg \#b38686
+set notification-fg \#B0C5C8
+set notification-warning-bg \#485867
+set notification-warning-fg \#aab386
+set recolor-darkcolor \#B0C5C8
+set recolor-lightcolor \#485867
+set render-loading-bg \#485867
+set render-loading-fg \#8299A1
+set statusbar-bg \#5A6D7A
+set statusbar-fg \#98AFB5

@@ -1,0 +1,28 @@
+# Gigavolt by Aidan Swope (http://github.com/Whillikers)
+
+set completion-bg \#202126
+set completion-fg \#a1d2e6
+set completion-group-bg \#2d303d
+set completion-group-fg \#cad3ff
+set completion-highlight-bg \#5a576e
+set completion-highlight-fg \#e9e7e1
+set default-bg \#202126
+set default-fg \#e9e7e1
+set index-active-bg \#5a576e
+set index-active-fg \#e9e7e1
+set index-bg \#202126
+set index-fg \#a1d2e6
+set inputbar-bg \#202126
+set inputbar-fg \#e9e7e1
+set notification-bg \#202126
+set notification-error-bg \#202126
+set notification-error-fg \#ff661a
+set notification-fg \#e9e7e1
+set notification-warning-bg \#202126
+set notification-warning-fg \#ffdc2d
+set recolor-darkcolor \#e9e7e1
+set recolor-lightcolor \#202126
+set render-loading-bg \#202126
+set render-loading-fg \#a1d2e6
+set statusbar-bg \#2d303d
+set statusbar-fg \#cad3ff

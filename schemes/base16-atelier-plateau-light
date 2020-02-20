@@ -1,0 +1,28 @@
+# Atelier Plateau Light by Bram de Haan (http://atelierbramdehaan.nl)
+
+set completion-bg \#f4ecec
+set completion-fg \#7e7777
+set completion-group-bg \#e7dfdf
+set completion-group-fg \#655d5d
+set completion-highlight-bg \#8a8585
+set completion-highlight-fg \#585050
+set default-bg \#f4ecec
+set default-fg \#585050
+set index-active-bg \#8a8585
+set index-active-fg \#585050
+set index-bg \#f4ecec
+set index-fg \#7e7777
+set inputbar-bg \#f4ecec
+set inputbar-fg \#585050
+set notification-bg \#f4ecec
+set notification-error-bg \#f4ecec
+set notification-error-fg \#ca4949
+set notification-fg \#585050
+set notification-warning-bg \#f4ecec
+set notification-warning-fg \#a06e3b
+set recolor-darkcolor \#585050
+set recolor-lightcolor \#f4ecec
+set render-loading-bg \#f4ecec
+set render-loading-fg \#7e7777
+set statusbar-bg \#e7dfdf
+set statusbar-fg \#655d5d

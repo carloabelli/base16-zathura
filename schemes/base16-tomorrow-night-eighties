@@ -1,0 +1,28 @@
+# Tomorrow Night by Chris Kempson (http://chriskempson.com)
+
+set completion-bg \#2d2d2d
+set completion-fg \#999999
+set completion-group-bg \#393939
+set completion-group-fg \#b4b7b4
+set completion-highlight-bg \#515151
+set completion-highlight-fg \#cccccc
+set default-bg \#2d2d2d
+set default-fg \#cccccc
+set index-active-bg \#515151
+set index-active-fg \#cccccc
+set index-bg \#2d2d2d
+set index-fg \#999999
+set inputbar-bg \#2d2d2d
+set inputbar-fg \#cccccc
+set notification-bg \#2d2d2d
+set notification-error-bg \#2d2d2d
+set notification-error-fg \#f2777a
+set notification-fg \#cccccc
+set notification-warning-bg \#2d2d2d
+set notification-warning-fg \#ffcc66
+set recolor-darkcolor \#cccccc
+set recolor-lightcolor \#2d2d2d
+set render-loading-bg \#2d2d2d
+set render-loading-fg \#999999
+set statusbar-bg \#393939
+set statusbar-fg \#b4b7b4

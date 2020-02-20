@@ -1,0 +1,28 @@
+# Atelier Savanna Light by Bram de Haan (http://atelierbramdehaan.nl)
+
+set completion-bg \#ecf4ee
+set completion-fg \#78877d
+set completion-group-bg \#dfe7e2
+set completion-group-fg \#5f6d64
+set completion-highlight-bg \#87928a
+set completion-highlight-fg \#526057
+set default-bg \#ecf4ee
+set default-fg \#526057
+set index-active-bg \#87928a
+set index-active-fg \#526057
+set index-bg \#ecf4ee
+set index-fg \#78877d
+set inputbar-bg \#ecf4ee
+set inputbar-fg \#526057
+set notification-bg \#ecf4ee
+set notification-error-bg \#ecf4ee
+set notification-error-fg \#b16139
+set notification-fg \#526057
+set notification-warning-bg \#ecf4ee
+set notification-warning-fg \#a07e3b
+set recolor-darkcolor \#526057
+set recolor-lightcolor \#ecf4ee
+set render-loading-bg \#ecf4ee
+set render-loading-fg \#78877d
+set statusbar-bg \#dfe7e2
+set statusbar-fg \#5f6d64

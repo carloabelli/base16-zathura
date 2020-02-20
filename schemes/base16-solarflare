@@ -1,0 +1,28 @@
+# Solar Flare by Chuck Harmston (https://chuck.harmston.ch)
+
+set completion-bg \#18262F
+set completion-fg \#667581
+set completion-group-bg \#222E38
+set completion-group-fg \#85939E
+set completion-highlight-bg \#586875
+set completion-highlight-fg \#A6AFB8
+set default-bg \#18262F
+set default-fg \#A6AFB8
+set index-active-bg \#586875
+set index-active-fg \#A6AFB8
+set index-bg \#18262F
+set index-fg \#667581
+set inputbar-bg \#18262F
+set inputbar-fg \#A6AFB8
+set notification-bg \#18262F
+set notification-error-bg \#18262F
+set notification-error-fg \#EF5253
+set notification-fg \#A6AFB8
+set notification-warning-bg \#18262F
+set notification-warning-fg \#E4B51C
+set recolor-darkcolor \#A6AFB8
+set recolor-lightcolor \#18262F
+set render-loading-bg \#18262F
+set render-loading-fg \#667581
+set statusbar-bg \#222E38
+set statusbar-fg \#85939E

@@ -1,0 +1,28 @@
+# XCode Dusk by Elsa Gonsiorowski (https://github.com/gonsie)
+
+set completion-bg \#282B35
+set completion-fg \#686A71
+set completion-group-bg \#3D4048
+set completion-group-fg \#7E8086
+set completion-highlight-bg \#53555D
+set completion-highlight-fg \#939599
+set default-bg \#282B35
+set default-fg \#939599
+set index-active-bg \#53555D
+set index-active-fg \#939599
+set index-bg \#282B35
+set index-fg \#686A71
+set inputbar-bg \#282B35
+set inputbar-fg \#939599
+set notification-bg \#282B35
+set notification-error-bg \#282B35
+set notification-error-fg \#B21889
+set notification-fg \#939599
+set notification-warning-bg \#282B35
+set notification-warning-fg \#438288
+set recolor-darkcolor \#939599
+set recolor-lightcolor \#282B35
+set render-loading-bg \#282B35
+set render-loading-fg \#686A71
+set statusbar-bg \#3D4048
+set statusbar-fg \#7E8086

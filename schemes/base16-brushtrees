@@ -1,0 +1,28 @@
+# Brush Trees by Abraham White &lt;abelincoln.white@gmail.com&gt;
+
+set completion-bg \#E3EFEF
+set completion-fg \#98AFB5
+set completion-group-bg \#C9DBDC
+set completion-group-fg \#8299A1
+set completion-highlight-bg \#B0C5C8
+set completion-highlight-fg \#6D828E
+set default-bg \#E3EFEF
+set default-fg \#6D828E
+set index-active-bg \#B0C5C8
+set index-active-fg \#6D828E
+set index-bg \#E3EFEF
+set index-fg \#98AFB5
+set inputbar-bg \#E3EFEF
+set inputbar-fg \#6D828E
+set notification-bg \#E3EFEF
+set notification-error-bg \#E3EFEF
+set notification-error-fg \#b38686
+set notification-fg \#6D828E
+set notification-warning-bg \#E3EFEF
+set notification-warning-fg \#aab386
+set recolor-darkcolor \#6D828E
+set recolor-lightcolor \#E3EFEF
+set render-loading-bg \#E3EFEF
+set render-loading-fg \#98AFB5
+set statusbar-bg \#C9DBDC
+set statusbar-fg \#8299A1

@@ -1,0 +1,28 @@
+# One Light by Daniel Pfeifer (http://github.com/purpleKarrot)
+
+set completion-bg \#fafafa
+set completion-fg \#a0a1a7
+set completion-group-bg \#f0f0f1
+set completion-group-fg \#696c77
+set completion-highlight-bg \#e5e5e6
+set completion-highlight-fg \#383a42
+set default-bg \#fafafa
+set default-fg \#383a42
+set index-active-bg \#e5e5e6
+set index-active-fg \#383a42
+set index-bg \#fafafa
+set index-fg \#a0a1a7
+set inputbar-bg \#fafafa
+set inputbar-fg \#383a42
+set notification-bg \#fafafa
+set notification-error-bg \#fafafa
+set notification-error-fg \#ca1243
+set notification-fg \#383a42
+set notification-warning-bg \#fafafa
+set notification-warning-fg \#c18401
+set recolor-darkcolor \#383a42
+set recolor-lightcolor \#fafafa
+set render-loading-bg \#fafafa
+set render-loading-fg \#a0a1a7
+set statusbar-bg \#f0f0f1
+set statusbar-fg \#696c77

@@ -1,0 +1,28 @@
+# Unikitty Dark by Josh W Lewis (@joshwlewis)
+
+set completion-bg \#2e2a31
+set completion-fg \#838085
+set completion-group-bg \#4a464d
+set completion-group-fg \#9f9da2
+set completion-highlight-bg \#666369
+set completion-highlight-fg \#bcbabe
+set default-bg \#2e2a31
+set default-fg \#bcbabe
+set index-active-bg \#666369
+set index-active-fg \#bcbabe
+set index-bg \#2e2a31
+set index-fg \#838085
+set inputbar-bg \#2e2a31
+set inputbar-fg \#bcbabe
+set notification-bg \#2e2a31
+set notification-error-bg \#2e2a31
+set notification-error-fg \#d8137f
+set notification-fg \#bcbabe
+set notification-warning-bg \#2e2a31
+set notification-warning-fg \#dc8a0e
+set recolor-darkcolor \#bcbabe
+set recolor-lightcolor \#2e2a31
+set render-loading-bg \#2e2a31
+set render-loading-fg \#838085
+set statusbar-bg \#4a464d
+set statusbar-fg \#9f9da2

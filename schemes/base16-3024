@@ -1,0 +1,28 @@
+# 3024 by Jan T. Sott (http://github.com/idleberg)
+
+set completion-bg \#090300
+set completion-fg \#5c5855
+set completion-group-bg \#3a3432
+set completion-group-fg \#807d7c
+set completion-highlight-bg \#4a4543
+set completion-highlight-fg \#a5a2a2
+set default-bg \#090300
+set default-fg \#a5a2a2
+set index-active-bg \#4a4543
+set index-active-fg \#a5a2a2
+set index-bg \#090300
+set index-fg \#5c5855
+set inputbar-bg \#090300
+set inputbar-fg \#a5a2a2
+set notification-bg \#090300
+set notification-error-bg \#090300
+set notification-error-fg \#db2d20
+set notification-fg \#a5a2a2
+set notification-warning-bg \#090300
+set notification-warning-fg \#fded02
+set recolor-darkcolor \#a5a2a2
+set recolor-lightcolor \#090300
+set render-loading-bg \#090300
+set render-loading-fg \#5c5855
+set statusbar-bg \#3a3432
+set statusbar-fg \#807d7c

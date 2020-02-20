@@ -1,0 +1,28 @@
+# Monokai by Wimer Hazenberg (http://www.monokai.nl)
+
+set completion-bg \#272822
+set completion-fg \#75715e
+set completion-group-bg \#383830
+set completion-group-fg \#a59f85
+set completion-highlight-bg \#49483e
+set completion-highlight-fg \#f8f8f2
+set default-bg \#272822
+set default-fg \#f8f8f2
+set index-active-bg \#49483e
+set index-active-fg \#f8f8f2
+set index-bg \#272822
+set index-fg \#75715e
+set inputbar-bg \#272822
+set inputbar-fg \#f8f8f2
+set notification-bg \#272822
+set notification-error-bg \#272822
+set notification-error-fg \#f92672
+set notification-fg \#f8f8f2
+set notification-warning-bg \#272822
+set notification-warning-fg \#f4bf75
+set recolor-darkcolor \#f8f8f2
+set recolor-lightcolor \#272822
+set render-loading-bg \#272822
+set render-loading-fg \#75715e
+set statusbar-bg \#383830
+set statusbar-fg \#a59f85

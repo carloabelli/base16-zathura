@@ -1,0 +1,28 @@
+# Bespin by Jan T. Sott
+
+set completion-bg \#28211c
+set completion-fg \#666666
+set completion-group-bg \#36312e
+set completion-group-fg \#797977
+set completion-highlight-bg \#5e5d5c
+set completion-highlight-fg \#8a8986
+set default-bg \#28211c
+set default-fg \#8a8986
+set index-active-bg \#5e5d5c
+set index-active-fg \#8a8986
+set index-bg \#28211c
+set index-fg \#666666
+set inputbar-bg \#28211c
+set inputbar-fg \#8a8986
+set notification-bg \#28211c
+set notification-error-bg \#28211c
+set notification-error-fg \#cf6a4c
+set notification-fg \#8a8986
+set notification-warning-bg \#28211c
+set notification-warning-fg \#f9ee98
+set recolor-darkcolor \#8a8986
+set recolor-lightcolor \#28211c
+set render-loading-bg \#28211c
+set render-loading-fg \#666666
+set statusbar-bg \#36312e
+set statusbar-fg \#797977

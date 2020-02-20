@@ -1,0 +1,28 @@
+# Helios by Alex Meyer (https://github.com/reyemxela)
+
+set completion-bg \#1d2021
+set completion-fg \#6f7579
+set completion-group-bg \#383c3e
+set completion-group-fg \#cdcdcd
+set completion-highlight-bg \#53585b
+set completion-highlight-fg \#d5d5d5
+set default-bg \#1d2021
+set default-fg \#d5d5d5
+set index-active-bg \#53585b
+set index-active-fg \#d5d5d5
+set index-bg \#1d2021
+set index-fg \#6f7579
+set inputbar-bg \#1d2021
+set inputbar-fg \#d5d5d5
+set notification-bg \#1d2021
+set notification-error-bg \#1d2021
+set notification-error-fg \#d72638
+set notification-fg \#d5d5d5
+set notification-warning-bg \#1d2021
+set notification-warning-fg \#f19d1a
+set recolor-darkcolor \#d5d5d5
+set recolor-lightcolor \#1d2021
+set render-loading-bg \#1d2021
+set render-loading-fg \#6f7579
+set statusbar-bg \#383c3e
+set statusbar-fg \#cdcdcd

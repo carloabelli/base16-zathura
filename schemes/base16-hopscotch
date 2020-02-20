@@ -1,0 +1,28 @@
+# Hopscotch by Jan T. Sott
+
+set completion-bg \#322931
+set completion-fg \#797379
+set completion-group-bg \#433b42
+set completion-group-fg \#989498
+set completion-highlight-bg \#5c545b
+set completion-highlight-fg \#b9b5b8
+set default-bg \#322931
+set default-fg \#b9b5b8
+set index-active-bg \#5c545b
+set index-active-fg \#b9b5b8
+set index-bg \#322931
+set index-fg \#797379
+set inputbar-bg \#322931
+set inputbar-fg \#b9b5b8
+set notification-bg \#322931
+set notification-error-bg \#322931
+set notification-error-fg \#dd464c
+set notification-fg \#b9b5b8
+set notification-warning-bg \#322931
+set notification-warning-fg \#fdcc59
+set recolor-darkcolor \#b9b5b8
+set recolor-lightcolor \#322931
+set render-loading-bg \#322931
+set render-loading-fg \#797379
+set statusbar-bg \#433b42
+set statusbar-fg \#989498

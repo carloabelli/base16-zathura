@@ -1,0 +1,28 @@
+# Embers by Jannik Siebert (https://github.com/janniks)
+
+set completion-bg \#16130F
+set completion-fg \#5A5047
+set completion-group-bg \#2C2620
+set completion-group-fg \#8A8075
+set completion-highlight-bg \#433B32
+set completion-highlight-fg \#A39A90
+set default-bg \#16130F
+set default-fg \#A39A90
+set index-active-bg \#433B32
+set index-active-fg \#A39A90
+set index-bg \#16130F
+set index-fg \#5A5047
+set inputbar-bg \#16130F
+set inputbar-fg \#A39A90
+set notification-bg \#16130F
+set notification-error-bg \#16130F
+set notification-error-fg \#826D57
+set notification-fg \#A39A90
+set notification-warning-bg \#16130F
+set notification-warning-fg \#6D8257
+set recolor-darkcolor \#A39A90
+set recolor-lightcolor \#16130F
+set render-loading-bg \#16130F
+set render-loading-fg \#5A5047
+set statusbar-bg \#2C2620
+set statusbar-fg \#8A8075

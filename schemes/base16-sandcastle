@@ -1,0 +1,28 @@
+# Sandcastle by George Essig (https://github.com/gessig)
+
+set completion-bg \#282c34
+set completion-fg \#665c54
+set completion-group-bg \#2c323b
+set completion-group-fg \#928374
+set completion-highlight-bg \#3e4451
+set completion-highlight-fg \#a89984
+set default-bg \#282c34
+set default-fg \#a89984
+set index-active-bg \#3e4451
+set index-active-fg \#a89984
+set index-bg \#282c34
+set index-fg \#665c54
+set inputbar-bg \#282c34
+set inputbar-fg \#a89984
+set notification-bg \#282c34
+set notification-error-bg \#282c34
+set notification-error-fg \#83a598
+set notification-fg \#a89984
+set notification-warning-bg \#282c34
+set notification-warning-fg \#a07e3b
+set recolor-darkcolor \#a89984
+set recolor-lightcolor \#282c34
+set render-loading-bg \#282c34
+set render-loading-fg \#665c54
+set statusbar-bg \#2c323b
+set statusbar-fg \#928374

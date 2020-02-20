@@ -1,0 +1,28 @@
+# Atelier Cave by Bram de Haan (http://atelierbramdehaan.nl)
+
+set completion-bg \#19171c
+set completion-fg \#655f6d
+set completion-group-bg \#26232a
+set completion-group-fg \#7e7887
+set completion-highlight-bg \#585260
+set completion-highlight-fg \#8b8792
+set default-bg \#19171c
+set default-fg \#8b8792
+set index-active-bg \#585260
+set index-active-fg \#8b8792
+set index-bg \#19171c
+set index-fg \#655f6d
+set inputbar-bg \#19171c
+set inputbar-fg \#8b8792
+set notification-bg \#19171c
+set notification-error-bg \#19171c
+set notification-error-fg \#be4678
+set notification-fg \#8b8792
+set notification-warning-bg \#19171c
+set notification-warning-fg \#a06e3b
+set recolor-darkcolor \#8b8792
+set recolor-lightcolor \#19171c
+set render-loading-bg \#19171c
+set render-loading-fg \#655f6d
+set statusbar-bg \#26232a
+set statusbar-fg \#7e7887

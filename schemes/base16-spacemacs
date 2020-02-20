@@ -1,0 +1,28 @@
+# Spacemacs by Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
+
+set completion-bg \#1f2022
+set completion-fg \#585858
+set completion-group-bg \#282828
+set completion-group-fg \#b8b8b8
+set completion-highlight-bg \#444155
+set completion-highlight-fg \#a3a3a3
+set default-bg \#1f2022
+set default-fg \#a3a3a3
+set index-active-bg \#444155
+set index-active-fg \#a3a3a3
+set index-bg \#1f2022
+set index-fg \#585858
+set inputbar-bg \#1f2022
+set inputbar-fg \#a3a3a3
+set notification-bg \#1f2022
+set notification-error-bg \#1f2022
+set notification-error-fg \#f2241f
+set notification-fg \#a3a3a3
+set notification-warning-bg \#1f2022
+set notification-warning-fg \#b1951d
+set recolor-darkcolor \#a3a3a3
+set recolor-lightcolor \#1f2022
+set render-loading-bg \#1f2022
+set render-loading-fg \#585858
+set statusbar-bg \#282828
+set statusbar-fg \#b8b8b8

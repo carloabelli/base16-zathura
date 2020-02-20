@@ -1,0 +1,28 @@
+# Rebecca by Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+
+set completion-bg \#292a44
+set completion-fg \#666699
+set completion-group-bg \#663399
+set completion-group-fg \#a0a0c5
+set completion-highlight-bg \#383a62
+set completion-highlight-fg \#f1eff8
+set default-bg \#292a44
+set default-fg \#f1eff8
+set index-active-bg \#383a62
+set index-active-fg \#f1eff8
+set index-bg \#292a44
+set index-fg \#666699
+set inputbar-bg \#292a44
+set inputbar-fg \#f1eff8
+set notification-bg \#292a44
+set notification-error-bg \#292a44
+set notification-error-fg \#a0a0c5
+set notification-fg \#f1eff8
+set notification-warning-bg \#292a44
+set notification-warning-fg \#ae81ff
+set recolor-darkcolor \#f1eff8
+set recolor-lightcolor \#292a44
+set render-loading-bg \#292a44
+set render-loading-fg \#666699
+set statusbar-bg \#663399
+set statusbar-fg \#a0a0c5

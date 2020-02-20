@@ -1,0 +1,28 @@
+# London Tube by Jan T. Sott
+
+set completion-bg \#231f20
+set completion-fg \#737171
+set completion-group-bg \#1c3f95
+set completion-group-fg \#959ca1
+set completion-highlight-bg \#5a5758
+set completion-highlight-fg \#d9d8d8
+set default-bg \#231f20
+set default-fg \#d9d8d8
+set index-active-bg \#5a5758
+set index-active-fg \#d9d8d8
+set index-bg \#231f20
+set index-fg \#737171
+set inputbar-bg \#231f20
+set inputbar-fg \#d9d8d8
+set notification-bg \#231f20
+set notification-error-bg \#231f20
+set notification-error-fg \#ee2e24
+set notification-fg \#d9d8d8
+set notification-warning-bg \#231f20
+set notification-warning-fg \#ffd204
+set recolor-darkcolor \#d9d8d8
+set recolor-lightcolor \#231f20
+set render-loading-bg \#231f20
+set render-loading-fg \#737171
+set statusbar-bg \#1c3f95
+set statusbar-fg \#959ca1

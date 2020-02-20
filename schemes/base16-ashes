@@ -1,0 +1,28 @@
+# Ashes by Jannik Siebert (https://github.com/janniks)
+
+set completion-bg \#1C2023
+set completion-fg \#747C84
+set completion-group-bg \#393F45
+set completion-group-fg \#ADB3BA
+set completion-highlight-bg \#565E65
+set completion-highlight-fg \#C7CCD1
+set default-bg \#1C2023
+set default-fg \#C7CCD1
+set index-active-bg \#565E65
+set index-active-fg \#C7CCD1
+set index-bg \#1C2023
+set index-fg \#747C84
+set inputbar-bg \#1C2023
+set inputbar-fg \#C7CCD1
+set notification-bg \#1C2023
+set notification-error-bg \#1C2023
+set notification-error-fg \#C7AE95
+set notification-fg \#C7CCD1
+set notification-warning-bg \#1C2023
+set notification-warning-fg \#AEC795
+set recolor-darkcolor \#C7CCD1
+set recolor-lightcolor \#1C2023
+set render-loading-bg \#1C2023
+set render-loading-fg \#747C84
+set statusbar-bg \#393F45
+set statusbar-fg \#ADB3BA

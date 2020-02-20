@@ -1,0 +1,28 @@
+# Grayscale Dark by Alexandre Gavioli (https://github.com/Alexx2/)
+
+set completion-bg \#101010
+set completion-fg \#525252
+set completion-group-bg \#252525
+set completion-group-fg \#ababab
+set completion-highlight-bg \#464646
+set completion-highlight-fg \#b9b9b9
+set default-bg \#101010
+set default-fg \#b9b9b9
+set index-active-bg \#464646
+set index-active-fg \#b9b9b9
+set index-bg \#101010
+set index-fg \#525252
+set inputbar-bg \#101010
+set inputbar-fg \#b9b9b9
+set notification-bg \#101010
+set notification-error-bg \#101010
+set notification-error-fg \#7c7c7c
+set notification-fg \#b9b9b9
+set notification-warning-bg \#101010
+set notification-warning-fg \#a0a0a0
+set recolor-darkcolor \#b9b9b9
+set recolor-lightcolor \#101010
+set render-loading-bg \#101010
+set render-loading-fg \#525252
+set statusbar-bg \#252525
+set statusbar-fg \#ababab

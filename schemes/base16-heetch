@@ -1,0 +1,28 @@
+# Heetch Dark by Geoffrey Teale (tealeg@gmail.com)
+
+set completion-bg \#190134
+set completion-fg \#7B6D8B
+set completion-group-bg \#392551
+set completion-group-fg \#9C92A8
+set completion-highlight-bg \#5A496E
+set completion-highlight-fg \#BDB6C5
+set default-bg \#190134
+set default-fg \#BDB6C5
+set index-active-bg \#5A496E
+set index-active-fg \#BDB6C5
+set index-bg \#190134
+set index-fg \#7B6D8B
+set inputbar-bg \#190134
+set inputbar-fg \#BDB6C5
+set notification-bg \#190134
+set notification-error-bg \#190134
+set notification-error-fg \#27D9D5
+set notification-fg \#BDB6C5
+set notification-warning-bg \#190134
+set notification-warning-fg \#8F6C97
+set recolor-darkcolor \#BDB6C5
+set recolor-lightcolor \#190134
+set render-loading-bg \#190134
+set render-loading-fg \#7B6D8B
+set statusbar-bg \#392551
+set statusbar-fg \#9C92A8

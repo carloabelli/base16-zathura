@@ -1,0 +1,28 @@
+# OneDark by Lalit Magant (http://github.com/tilal6991)
+
+set completion-bg \#282c34
+set completion-fg \#545862
+set completion-group-bg \#353b45
+set completion-group-fg \#565c64
+set completion-highlight-bg \#3e4451
+set completion-highlight-fg \#abb2bf
+set default-bg \#282c34
+set default-fg \#abb2bf
+set index-active-bg \#3e4451
+set index-active-fg \#abb2bf
+set index-bg \#282c34
+set index-fg \#545862
+set inputbar-bg \#282c34
+set inputbar-fg \#abb2bf
+set notification-bg \#282c34
+set notification-error-bg \#282c34
+set notification-error-fg \#e06c75
+set notification-fg \#abb2bf
+set notification-warning-bg \#282c34
+set notification-warning-fg \#e5c07b
+set recolor-darkcolor \#abb2bf
+set recolor-lightcolor \#282c34
+set render-loading-bg \#282c34
+set render-loading-fg \#545862
+set statusbar-bg \#353b45
+set statusbar-fg \#565c64

@@ -1,0 +1,28 @@
+# Atelier Estuary by Bram de Haan (http://atelierbramdehaan.nl)
+
+set completion-bg \#22221b
+set completion-fg \#6c6b5a
+set completion-group-bg \#302f27
+set completion-group-fg \#878573
+set completion-highlight-bg \#5f5e4e
+set completion-highlight-fg \#929181
+set default-bg \#22221b
+set default-fg \#929181
+set index-active-bg \#5f5e4e
+set index-active-fg \#929181
+set index-bg \#22221b
+set index-fg \#6c6b5a
+set inputbar-bg \#22221b
+set inputbar-fg \#929181
+set notification-bg \#22221b
+set notification-error-bg \#22221b
+set notification-error-fg \#ba6236
+set notification-fg \#929181
+set notification-warning-bg \#22221b
+set notification-warning-fg \#a5980d
+set recolor-darkcolor \#929181
+set recolor-lightcolor \#22221b
+set render-loading-bg \#22221b
+set render-loading-fg \#6c6b5a
+set statusbar-bg \#302f27
+set statusbar-fg \#878573

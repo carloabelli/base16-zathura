@@ -1,0 +1,28 @@
+# Gruvbox dark, pale by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+
+set completion-bg \#262626
+set completion-fg \#8a8a8a
+set completion-group-bg \#3a3a3a
+set completion-group-fg \#949494
+set completion-highlight-bg \#4e4e4e
+set completion-highlight-fg \#dab997
+set default-bg \#262626
+set default-fg \#dab997
+set index-active-bg \#4e4e4e
+set index-active-fg \#dab997
+set index-bg \#262626
+set index-fg \#8a8a8a
+set inputbar-bg \#262626
+set inputbar-fg \#dab997
+set notification-bg \#262626
+set notification-error-bg \#262626
+set notification-error-fg \#d75f5f
+set notification-fg \#dab997
+set notification-warning-bg \#262626
+set notification-warning-fg \#ffaf00
+set recolor-darkcolor \#dab997
+set recolor-lightcolor \#262626
+set render-loading-bg \#262626
+set render-loading-fg \#8a8a8a
+set statusbar-bg \#3a3a3a
+set statusbar-fg \#949494

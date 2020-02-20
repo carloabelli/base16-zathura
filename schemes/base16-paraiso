@@ -1,0 +1,28 @@
+# Paraiso by Jan T. Sott
+
+set completion-bg \#2f1e2e
+set completion-fg \#776e71
+set completion-group-bg \#41323f
+set completion-group-fg \#8d8687
+set completion-highlight-bg \#4f424c
+set completion-highlight-fg \#a39e9b
+set default-bg \#2f1e2e
+set default-fg \#a39e9b
+set index-active-bg \#4f424c
+set index-active-fg \#a39e9b
+set index-bg \#2f1e2e
+set index-fg \#776e71
+set inputbar-bg \#2f1e2e
+set inputbar-fg \#a39e9b
+set notification-bg \#2f1e2e
+set notification-error-bg \#2f1e2e
+set notification-error-fg \#ef6155
+set notification-fg \#a39e9b
+set notification-warning-bg \#2f1e2e
+set notification-warning-fg \#fec418
+set recolor-darkcolor \#a39e9b
+set recolor-lightcolor \#2f1e2e
+set render-loading-bg \#2f1e2e
+set render-loading-fg \#776e71
+set statusbar-bg \#41323f
+set statusbar-fg \#8d8687

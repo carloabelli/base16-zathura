@@ -1,0 +1,28 @@
+# Outrun Dark by Hugo Delahousse (http://github.com/hugodelahousse/)
+
+set completion-bg \#00002A
+set completion-fg \#50507A
+set completion-group-bg \#20204A
+set completion-group-fg \#B0B0DA
+set completion-highlight-bg \#30305A
+set completion-highlight-fg \#D0D0FA
+set default-bg \#00002A
+set default-fg \#D0D0FA
+set index-active-bg \#30305A
+set index-active-fg \#D0D0FA
+set index-bg \#00002A
+set index-fg \#50507A
+set inputbar-bg \#00002A
+set inputbar-fg \#D0D0FA
+set notification-bg \#00002A
+set notification-error-bg \#00002A
+set notification-error-fg \#FF4242
+set notification-fg \#D0D0FA
+set notification-warning-bg \#00002A
+set notification-warning-fg \#F3E877
+set recolor-darkcolor \#D0D0FA
+set recolor-lightcolor \#00002A
+set render-loading-bg \#00002A
+set render-loading-fg \#50507A
+set statusbar-bg \#20204A
+set statusbar-fg \#B0B0DA

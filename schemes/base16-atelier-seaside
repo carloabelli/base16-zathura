@@ -1,0 +1,28 @@
+# Atelier Seaside by Bram de Haan (http://atelierbramdehaan.nl)
+
+set completion-bg \#131513
+set completion-fg \#687d68
+set completion-group-bg \#242924
+set completion-group-fg \#809980
+set completion-highlight-bg \#5e6e5e
+set completion-highlight-fg \#8ca68c
+set default-bg \#131513
+set default-fg \#8ca68c
+set index-active-bg \#5e6e5e
+set index-active-fg \#8ca68c
+set index-bg \#131513
+set index-fg \#687d68
+set inputbar-bg \#131513
+set inputbar-fg \#8ca68c
+set notification-bg \#131513
+set notification-error-bg \#131513
+set notification-error-fg \#e6193c
+set notification-fg \#8ca68c
+set notification-warning-bg \#131513
+set notification-warning-fg \#98981b
+set recolor-darkcolor \#8ca68c
+set recolor-lightcolor \#131513
+set render-loading-bg \#131513
+set render-loading-fg \#687d68
+set statusbar-bg \#242924
+set statusbar-fg \#809980

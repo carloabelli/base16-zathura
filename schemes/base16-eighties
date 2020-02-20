@@ -1,0 +1,28 @@
+# Eighties by Chris Kempson (http://chriskempson.com)
+
+set completion-bg \#2d2d2d
+set completion-fg \#747369
+set completion-group-bg \#393939
+set completion-group-fg \#a09f93
+set completion-highlight-bg \#515151
+set completion-highlight-fg \#d3d0c8
+set default-bg \#2d2d2d
+set default-fg \#d3d0c8
+set index-active-bg \#515151
+set index-active-fg \#d3d0c8
+set index-bg \#2d2d2d
+set index-fg \#747369
+set inputbar-bg \#2d2d2d
+set inputbar-fg \#d3d0c8
+set notification-bg \#2d2d2d
+set notification-error-bg \#2d2d2d
+set notification-error-fg \#f2777a
+set notification-fg \#d3d0c8
+set notification-warning-bg \#2d2d2d
+set notification-warning-fg \#ffcc66
+set recolor-darkcolor \#d3d0c8
+set recolor-lightcolor \#2d2d2d
+set render-loading-bg \#2d2d2d
+set render-loading-fg \#747369
+set statusbar-bg \#393939
+set statusbar-fg \#a09f93

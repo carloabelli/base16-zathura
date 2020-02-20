@@ -1,0 +1,28 @@
+# Codeschool by blockloop
+
+set completion-bg \#232c31
+set completion-fg \#3f4944
+set completion-group-bg \#1c3657
+set completion-group-fg \#84898c
+set completion-highlight-bg \#2a343a
+set completion-highlight-fg \#9ea7a6
+set default-bg \#232c31
+set default-fg \#9ea7a6
+set index-active-bg \#2a343a
+set index-active-fg \#9ea7a6
+set index-bg \#232c31
+set index-fg \#3f4944
+set inputbar-bg \#232c31
+set inputbar-fg \#9ea7a6
+set notification-bg \#232c31
+set notification-error-bg \#232c31
+set notification-error-fg \#2a5491
+set notification-fg \#9ea7a6
+set notification-warning-bg \#232c31
+set notification-warning-fg \#a03b1e
+set recolor-darkcolor \#9ea7a6
+set recolor-lightcolor \#232c31
+set render-loading-bg \#232c31
+set render-loading-fg \#3f4944
+set statusbar-bg \#1c3657
+set statusbar-fg \#84898c

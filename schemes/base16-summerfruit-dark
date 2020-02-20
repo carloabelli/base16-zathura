@@ -1,0 +1,28 @@
+# Summerfruit Dark by Christopher Corley (http://christop.club/)
+
+set completion-bg \#151515
+set completion-fg \#505050
+set completion-group-bg \#202020
+set completion-group-fg \#B0B0B0
+set completion-highlight-bg \#303030
+set completion-highlight-fg \#D0D0D0
+set default-bg \#151515
+set default-fg \#D0D0D0
+set index-active-bg \#303030
+set index-active-fg \#D0D0D0
+set index-bg \#151515
+set index-fg \#505050
+set inputbar-bg \#151515
+set inputbar-fg \#D0D0D0
+set notification-bg \#151515
+set notification-error-bg \#151515
+set notification-error-fg \#FF0086
+set notification-fg \#D0D0D0
+set notification-warning-bg \#151515
+set notification-warning-fg \#ABA800
+set recolor-darkcolor \#D0D0D0
+set recolor-lightcolor \#151515
+set render-loading-bg \#151515
+set render-loading-fg \#505050
+set statusbar-bg \#202020
+set statusbar-fg \#B0B0B0

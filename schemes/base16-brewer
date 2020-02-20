@@ -1,0 +1,28 @@
+# Brewer by Timothée Poisot (http://github.com/tpoisot)
+
+set completion-bg \#0c0d0e
+set completion-fg \#737475
+set completion-group-bg \#2e2f30
+set completion-group-fg \#959697
+set completion-highlight-bg \#515253
+set completion-highlight-fg \#b7b8b9
+set default-bg \#0c0d0e
+set default-fg \#b7b8b9
+set index-active-bg \#515253
+set index-active-fg \#b7b8b9
+set index-bg \#0c0d0e
+set index-fg \#737475
+set inputbar-bg \#0c0d0e
+set inputbar-fg \#b7b8b9
+set notification-bg \#0c0d0e
+set notification-error-bg \#0c0d0e
+set notification-error-fg \#e31a1c
+set notification-fg \#b7b8b9
+set notification-warning-bg \#0c0d0e
+set notification-warning-fg \#dca060
+set recolor-darkcolor \#b7b8b9
+set recolor-lightcolor \#0c0d0e
+set render-loading-bg \#0c0d0e
+set render-loading-fg \#737475
+set statusbar-bg \#2e2f30
+set statusbar-fg \#959697

@@ -1,0 +1,28 @@
+# Zenburn by elnawe
+
+set completion-bg \#383838
+set completion-fg \#6f6f6f
+set completion-group-bg \#404040
+set completion-group-fg \#808080
+set completion-highlight-bg \#606060
+set completion-highlight-fg \#dcdccc
+set default-bg \#383838
+set default-fg \#dcdccc
+set index-active-bg \#606060
+set index-active-fg \#dcdccc
+set index-bg \#383838
+set index-fg \#6f6f6f
+set inputbar-bg \#383838
+set inputbar-fg \#dcdccc
+set notification-bg \#383838
+set notification-error-bg \#383838
+set notification-error-fg \#dca3a3
+set notification-fg \#dcdccc
+set notification-warning-bg \#383838
+set notification-warning-fg \#e0cf9f
+set recolor-darkcolor \#dcdccc
+set recolor-lightcolor \#383838
+set render-loading-bg \#383838
+set render-loading-fg \#6f6f6f
+set statusbar-bg \#404040
+set statusbar-fg \#808080

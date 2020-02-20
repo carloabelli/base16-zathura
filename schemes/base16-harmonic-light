@@ -1,0 +1,28 @@
+# Harmonic16 Light by Jannik Siebert (https://github.com/janniks)
+
+set completion-bg \#f7f9fb
+set completion-fg \#aabcce
+set completion-group-bg \#e5ebf1
+set completion-group-fg \#627e99
+set completion-highlight-bg \#cbd6e2
+set completion-highlight-fg \#405c79
+set default-bg \#f7f9fb
+set default-fg \#405c79
+set index-active-bg \#cbd6e2
+set index-active-fg \#405c79
+set index-bg \#f7f9fb
+set index-fg \#aabcce
+set inputbar-bg \#f7f9fb
+set inputbar-fg \#405c79
+set notification-bg \#f7f9fb
+set notification-error-bg \#f7f9fb
+set notification-error-fg \#bf8b56
+set notification-fg \#405c79
+set notification-warning-bg \#f7f9fb
+set notification-warning-fg \#8bbf56
+set recolor-darkcolor \#405c79
+set recolor-lightcolor \#f7f9fb
+set render-loading-bg \#f7f9fb
+set render-loading-fg \#aabcce
+set statusbar-bg \#e5ebf1
+set statusbar-fg \#627e99

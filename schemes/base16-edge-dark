@@ -1,0 +1,28 @@
+# Edge Dark by cjayross (https://github.com/cjayross)
+
+set completion-bg \#262729
+set completion-fg \#3e4249
+set completion-group-bg \#88909f
+set completion-group-fg \#73b3e7
+set completion-highlight-bg \#b7bec9
+set completion-highlight-fg \#b7bec9
+set default-bg \#262729
+set default-fg \#b7bec9
+set index-active-bg \#b7bec9
+set index-active-fg \#b7bec9
+set index-bg \#262729
+set index-fg \#3e4249
+set inputbar-bg \#262729
+set inputbar-fg \#b7bec9
+set notification-bg \#262729
+set notification-error-bg \#262729
+set notification-error-fg \#e77171
+set notification-fg \#b7bec9
+set notification-warning-bg \#262729
+set notification-warning-fg \#dbb774
+set recolor-darkcolor \#b7bec9
+set recolor-lightcolor \#262729
+set render-loading-bg \#262729
+set render-loading-fg \#3e4249
+set statusbar-bg \#88909f
+set statusbar-fg \#73b3e7

@@ -1,0 +1,28 @@
+# Atelier Lakeside by Bram de Haan (http://atelierbramdehaan.nl)
+
+set completion-bg \#161b1d
+set completion-fg \#5a7b8c
+set completion-group-bg \#1f292e
+set completion-group-fg \#7195a8
+set completion-highlight-bg \#516d7b
+set completion-highlight-fg \#7ea2b4
+set default-bg \#161b1d
+set default-fg \#7ea2b4
+set index-active-bg \#516d7b
+set index-active-fg \#7ea2b4
+set index-bg \#161b1d
+set index-fg \#5a7b8c
+set inputbar-bg \#161b1d
+set inputbar-fg \#7ea2b4
+set notification-bg \#161b1d
+set notification-error-bg \#161b1d
+set notification-error-fg \#d22d72
+set notification-fg \#7ea2b4
+set notification-warning-bg \#161b1d
+set notification-warning-fg \#8a8a0f
+set recolor-darkcolor \#7ea2b4
+set recolor-lightcolor \#161b1d
+set render-loading-bg \#161b1d
+set render-loading-fg \#5a7b8c
+set statusbar-bg \#1f292e
+set statusbar-fg \#7195a8

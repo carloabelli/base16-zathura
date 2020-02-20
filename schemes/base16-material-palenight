@@ -1,0 +1,28 @@
+# Material Palenight by Nate Peterson
+
+set completion-bg \#292D3E
+set completion-fg \#676E95
+set completion-group-bg \#444267
+set completion-group-fg \#8796B0
+set completion-highlight-bg \#32374D
+set completion-highlight-fg \#959DCB
+set default-bg \#292D3E
+set default-fg \#959DCB
+set index-active-bg \#32374D
+set index-active-fg \#959DCB
+set index-bg \#292D3E
+set index-fg \#676E95
+set inputbar-bg \#292D3E
+set inputbar-fg \#959DCB
+set notification-bg \#292D3E
+set notification-error-bg \#292D3E
+set notification-error-fg \#F07178
+set notification-fg \#959DCB
+set notification-warning-bg \#292D3E
+set notification-warning-fg \#FFCB6B
+set recolor-darkcolor \#959DCB
+set recolor-lightcolor \#292D3E
+set render-loading-bg \#292D3E
+set render-loading-fg \#676E95
+set statusbar-bg \#444267
+set statusbar-fg \#8796B0

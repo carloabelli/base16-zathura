@@ -1,0 +1,28 @@
+# Pico by PICO-8 (http://www.lexaloffle.com/pico-8.php)
+
+set completion-bg \#000000
+set completion-fg \#008751
+set completion-group-bg \#1d2b53
+set completion-group-fg \#ab5236
+set completion-highlight-bg \#7e2553
+set completion-highlight-fg \#5f574f
+set default-bg \#000000
+set default-fg \#5f574f
+set index-active-bg \#7e2553
+set index-active-fg \#5f574f
+set index-bg \#000000
+set index-fg \#008751
+set inputbar-bg \#000000
+set inputbar-fg \#5f574f
+set notification-bg \#000000
+set notification-error-bg \#000000
+set notification-error-fg \#ff004d
+set notification-fg \#5f574f
+set notification-warning-bg \#000000
+set notification-warning-fg \#fff024
+set recolor-darkcolor \#5f574f
+set recolor-lightcolor \#000000
+set render-loading-bg \#000000
+set render-loading-fg \#008751
+set statusbar-bg \#1d2b53
+set statusbar-fg \#ab5236

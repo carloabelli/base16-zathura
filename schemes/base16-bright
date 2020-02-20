@@ -1,0 +1,28 @@
+# Bright by Chris Kempson (http://chriskempson.com)
+
+set completion-bg \#000000
+set completion-fg \#b0b0b0
+set completion-group-bg \#303030
+set completion-group-fg \#d0d0d0
+set completion-highlight-bg \#505050
+set completion-highlight-fg \#e0e0e0
+set default-bg \#000000
+set default-fg \#e0e0e0
+set index-active-bg \#505050
+set index-active-fg \#e0e0e0
+set index-bg \#000000
+set index-fg \#b0b0b0
+set inputbar-bg \#000000
+set inputbar-fg \#e0e0e0
+set notification-bg \#000000
+set notification-error-bg \#000000
+set notification-error-fg \#fb0120
+set notification-fg \#e0e0e0
+set notification-warning-bg \#000000
+set notification-warning-fg \#fda331
+set recolor-darkcolor \#e0e0e0
+set recolor-lightcolor \#000000
+set render-loading-bg \#000000
+set render-loading-fg \#b0b0b0
+set statusbar-bg \#303030
+set statusbar-fg \#d0d0d0

@@ -1,0 +1,28 @@
+# Espresso by Alex Mirrington (https://github.com/alexmirrington)
+
+set completion-bg \#2d2d2d
+set completion-fg \#777777
+set completion-group-bg \#393939
+set completion-group-fg \#b4b7b4
+set completion-highlight-bg \#515151
+set completion-highlight-fg \#cccccc
+set default-bg \#2d2d2d
+set default-fg \#cccccc
+set index-active-bg \#515151
+set index-active-fg \#cccccc
+set index-bg \#2d2d2d
+set index-fg \#777777
+set inputbar-bg \#2d2d2d
+set inputbar-fg \#cccccc
+set notification-bg \#2d2d2d
+set notification-error-bg \#2d2d2d
+set notification-error-fg \#d25252
+set notification-fg \#cccccc
+set notification-warning-bg \#2d2d2d
+set notification-warning-fg \#ffc66d
+set recolor-darkcolor \#cccccc
+set recolor-lightcolor \#2d2d2d
+set render-loading-bg \#2d2d2d
+set render-loading-fg \#777777
+set statusbar-bg \#393939
+set statusbar-fg \#b4b7b4
