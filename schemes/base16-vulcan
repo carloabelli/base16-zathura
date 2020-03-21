@@ -1,0 +1,28 @@
+# vulcan by Andrey Varfolomeev
+
+set completion-bg \#041523
+set completion-fg \#7a5759
+set completion-group-bg \#122339
+set completion-group-fg \#6b6977
+set completion-highlight-bg \#003552
+set completion-highlight-fg \#5b778c
+set default-bg \#041523
+set default-fg \#5b778c
+set index-active-bg \#003552
+set index-active-fg \#5b778c
+set index-bg \#041523
+set index-fg \#7a5759
+set inputbar-bg \#041523
+set inputbar-fg \#5b778c
+set notification-bg \#041523
+set notification-error-bg \#041523
+set notification-error-fg \#818591
+set notification-fg \#5b778c
+set notification-warning-bg \#041523
+set notification-warning-fg \#adb4b9
+set recolor-darkcolor \#5b778c
+set recolor-lightcolor \#041523
+set render-loading-bg \#041523
+set render-loading-fg \#7a5759
+set statusbar-bg \#122339
+set statusbar-fg \#6b6977

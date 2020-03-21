@@ -1,0 +1,28 @@
+# darkmoss by Gabriel Avanzi (https://github.com/avanzzzi)
+
+set completion-bg \#171e1f
+set completion-fg \#555e5f
+set completion-group-bg \#252c2d
+set completion-group-fg \#818f80
+set completion-highlight-bg \#373c3d
+set completion-highlight-fg \#c7c7a5
+set default-bg \#171e1f
+set default-fg \#c7c7a5
+set index-active-bg \#373c3d
+set index-active-fg \#c7c7a5
+set index-bg \#171e1f
+set index-fg \#555e5f
+set inputbar-bg \#171e1f
+set inputbar-fg \#c7c7a5
+set notification-bg \#171e1f
+set notification-error-bg \#171e1f
+set notification-error-fg \#ff4658
+set notification-fg \#c7c7a5
+set notification-warning-bg \#171e1f
+set notification-warning-fg \#fdb11f
+set recolor-darkcolor \#c7c7a5
+set recolor-lightcolor \#171e1f
+set render-loading-bg \#171e1f
+set render-loading-fg \#555e5f
+set statusbar-bg \#252c2d
+set statusbar-fg \#818f80

@@ -1,0 +1,28 @@
+# dirtysea by Kahlil (Kal) Hodgson
+
+set completion-bg \#e0e0e0
+set completion-fg \#707070
+set completion-group-bg \#d0d0d0
+set completion-group-fg \#202020
+set completion-highlight-bg \#c0c0c0
+set completion-highlight-fg \#000000
+set default-bg \#e0e0e0
+set default-fg \#000000
+set index-active-bg \#c0c0c0
+set index-active-fg \#000000
+set index-bg \#e0e0e0
+set index-fg \#707070
+set inputbar-bg \#e0e0e0
+set inputbar-fg \#000000
+set notification-bg \#e0e0e0
+set notification-error-bg \#e0e0e0
+set notification-error-fg \#000090
+set notification-fg \#000000
+set notification-warning-bg \#e0e0e0
+set notification-warning-fg \#006565
+set recolor-darkcolor \#000000
+set recolor-lightcolor \#e0e0e0
+set render-loading-bg \#e0e0e0
+set render-loading-fg \#707070
+set statusbar-bg \#d0d0d0
+set statusbar-fg \#202020

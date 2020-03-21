@@ -1,0 +1,28 @@
+# Humanoid dark by Thomas (tasmo) Friese
+
+set completion-bg \#232629
+set completion-fg \#60615d
+set completion-group-bg \#333b3d
+set completion-group-fg \#c0c0bd
+set completion-highlight-bg \#484e54
+set completion-highlight-fg \#f8f8f2
+set default-bg \#232629
+set default-fg \#f8f8f2
+set index-active-bg \#484e54
+set index-active-fg \#f8f8f2
+set index-bg \#232629
+set index-fg \#60615d
+set inputbar-bg \#232629
+set inputbar-fg \#f8f8f2
+set notification-bg \#232629
+set notification-error-bg \#232629
+set notification-error-fg \#f11235
+set notification-fg \#f8f8f2
+set notification-warning-bg \#232629
+set notification-warning-fg \#ffb627
+set recolor-darkcolor \#f8f8f2
+set recolor-lightcolor \#232629
+set render-loading-bg \#232629
+set render-loading-fg \#60615d
+set statusbar-bg \#333b3d
+set statusbar-fg \#c0c0bd

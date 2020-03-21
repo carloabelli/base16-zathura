@@ -1,0 +1,28 @@
+# Equilibrium Gray Dark by Carlo Abelli
+
+set completion-bg \#111111
+set completion-fg \#777777
+set completion-group-bg \#1b1b1b
+set completion-group-fg \#919191
+set completion-highlight-bg \#262626
+set completion-highlight-fg \#ababab
+set default-bg \#111111
+set default-fg \#ababab
+set index-active-bg \#262626
+set index-active-fg \#ababab
+set index-bg \#111111
+set index-fg \#777777
+set inputbar-bg \#111111
+set inputbar-fg \#ababab
+set notification-bg \#111111
+set notification-error-bg \#111111
+set notification-error-fg \#f04339
+set notification-fg \#ababab
+set notification-warning-bg \#111111
+set notification-warning-fg \#bb8801
+set recolor-darkcolor \#ababab
+set recolor-lightcolor \#111111
+set render-loading-bg \#111111
+set render-loading-fg \#777777
+set statusbar-bg \#1b1b1b
+set statusbar-fg \#919191

@@ -16,10 +16,10 @@ set inputbar-bg \#2E3440
 set inputbar-fg \#E5E9F0
 set notification-bg \#2E3440
 set notification-error-bg \#2E3440
-set notification-error-fg \#88C0D0
+set notification-error-fg \#BF616A
 set notification-fg \#E5E9F0
 set notification-warning-bg \#2E3440
-set notification-warning-fg \#5E81AC
+set notification-warning-fg \#EBCB8B
 set recolor-darkcolor \#E5E9F0
 set recolor-lightcolor \#2E3440
 set render-loading-bg \#2E3440

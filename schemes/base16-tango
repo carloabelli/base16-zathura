@@ -1,0 +1,28 @@
+# Tango by @Schnouki, based on the Tango Desktop Project
+
+set completion-bg \#2e3436
+set completion-fg \#555753
+set completion-group-bg \#8ae234
+set completion-group-fg \#729fcf
+set completion-highlight-bg \#fce94f
+set completion-highlight-fg \#d3d7cf
+set default-bg \#2e3436
+set default-fg \#d3d7cf
+set index-active-bg \#fce94f
+set index-active-fg \#d3d7cf
+set index-bg \#2e3436
+set index-fg \#555753
+set inputbar-bg \#2e3436
+set inputbar-fg \#d3d7cf
+set notification-bg \#2e3436
+set notification-error-bg \#2e3436
+set notification-error-fg \#cc0000
+set notification-fg \#d3d7cf
+set notification-warning-bg \#2e3436
+set notification-warning-fg \#c4a000
+set recolor-darkcolor \#d3d7cf
+set recolor-lightcolor \#2e3436
+set render-loading-bg \#2e3436
+set render-loading-fg \#555753
+set statusbar-bg \#8ae234
+set statusbar-fg \#729fcf

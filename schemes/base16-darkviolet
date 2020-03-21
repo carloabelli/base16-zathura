@@ -1,0 +1,28 @@
+# Dark Violet by ruler501 (https://github.com/ruler501/base16-darkviolet)
+
+set completion-bg \#000000
+set completion-fg \#593380
+set completion-group-bg \#231a40
+set completion-group-fg \#00ff00
+set completion-highlight-bg \#432d59
+set completion-highlight-fg \#b08ae6
+set default-bg \#000000
+set default-fg \#b08ae6
+set index-active-bg \#432d59
+set index-active-fg \#b08ae6
+set index-bg \#000000
+set index-fg \#593380
+set inputbar-bg \#000000
+set inputbar-fg \#b08ae6
+set notification-bg \#000000
+set notification-error-bg \#000000
+set notification-error-fg \#a82ee6
+set notification-fg \#b08ae6
+set notification-warning-bg \#000000
+set notification-warning-fg \#f29df2
+set recolor-darkcolor \#b08ae6
+set recolor-lightcolor \#000000
+set render-loading-bg \#000000
+set render-loading-fg \#593380
+set statusbar-bg \#231a40
+set statusbar-fg \#00ff00
